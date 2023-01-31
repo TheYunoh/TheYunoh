@@ -1,5 +1,6 @@
 <div>
   <a href="https://github.com/TheYunoh">
+  <img align="right" src="https://media.giphy.com/media/QK41PjIkLqgs6NL1aZ/giphy.gif" alt="Gat" width="15%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheYunoh&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYunoh&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
