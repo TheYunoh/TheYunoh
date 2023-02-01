@@ -92,6 +92,6 @@ development area.🚀
 <!--   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
        </div> 
        
- <div align="left"><strong>Thanks for visiting.</strong> <br><br>
+ <div align="left" fonty-size"100px"><strong>Thanks for visiting.</strong> <br><br>
   <img align="left" src="https://media1.giphy.com/media/VIiahZxXYk6e4/giphy.gif?cid=ecf05e47x3qsfojbk9ebu7x5txuj6lzxt8ygee0bijf9ws6t&rid=giphy.gif&ct=g" alt="Star" width="500">
 </div>
