@@ -93,5 +93,5 @@ development area.🚀
        </div> 
        
  <div align="left" fonty-size"100px"><strong>Thanks for visiting.</strong> <br><br>
-  <img align="left" src="https://media1.giphy.com/media/VIiahZxXYk6e4/giphy.gif?cid=ecf05e47x3qsfojbk9ebu7x5txuj6lzxt8ygee0bijf9ws6t&rid=giphy.gif&ct=g" alt="Star" width="500">
+  <img align="left" src="https://media1.giphy.com/media/VIiahZxXYk6e4/giphy.gif?cid=ecf05e47x3qsfojbk9ebu7x5txuj6lzxt8ygee0bijf9ws6t&rid=giphy.gif&ct=g" alt="Star" width="400">
 </div>
