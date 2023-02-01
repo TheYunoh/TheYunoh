@@ -8,44 +8,30 @@
 <h1 align="right">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> nice to meet you!! <br>
 </h1>
 
-
-<br>
 <h2 align="right" >
   <img align="right"  padding-bottom"20px" src="https://i.pinimg.com/originals/6b/e5/40/6be5401d00c595e1b792aebcf129aaa4.gif" alt="Kageyama em quadra" width="15%">
   Welcome to my page!😉
   <h2>
-
-<br>  
-
+    
 <p align="right">
     
 Hi, i'm Thiago Ruan, <br> programming student at DevQuest.
-<br>
 I want be a developer on the rise and <br> a competitive programming enthusiast.
 
 I want to learn and improve myself in 📈 <br>
 development area.🚀
   
 </p>
-
-
-<hr>
-
-
- <br>
-
-
-<br>
  </h1>
 
  > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="ESTRELA1" width="40"> &nbsp;***Talking about Personal Stuffs:***  <img       src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="ESTRELA2" width="40"> &nbsp;
- <img align="right" width=450px alt="socos" src="https://media4.giphy.com/media/XP3c8dMALpHxK/giphy.gif?cid=ecf05e47x3qsfojbk9ebu7x5txuj6lzxt8ygee0bijf9ws6t&rid=giphy.gif&ct=g" />
+ <img align="right" margin-bottom=10px width=450px alt="socos" src="https://media4.giphy.com/media/XP3c8dMALpHxK/giphy.gif?cid=ecf05e47x3qsfojbk9ebu7x5txuj6lzxt8ygee0bijf9ws6t&rid=giphy.gif&ct=g" />
 
   
 -  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="pc-cat" width="45">&nbsp;I love: ***Volleyball*** and ***Games***.🎮
 - <img src="https://media.giphy.com/media/9Jk5uq2FFETYYNtCjg/giphy.gif" alt="cat-working" width="50"> &nbsp;I’m currently working in production...🧑‍🏭
 - <img src="https://media.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif" alt="cat-money" width="50"> &nbsp;I’m an economic person.💸
-- <img src="https://media.giphy.com/media/H1SUKAcBubpIe2C7AE/giphy.gif" alt="cat-looking" width="50"> &nbsp;I’m improving the languages I already know and learning JS
+- <img src="https://media.giphy.com/media/H1SUKAcBubpIe2C7AE/giphy.gif" alt="cat-looking" width="50"> &nbsp;I’m improving the languages I already know and learning <code> <img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> </code>.
 - <img src="https://media.giphy.com/media/KOUC1bovOpRANRFrVW/giphy.gif" alt="cat-dancing" width="50"> &nbsp;My favorite hobby is play volleyball. 🏐
 - <img src="https://media3.giphy.com/media/KfYq6gFR5hOQ9nbCgO/source.gif" alt="cat-coffee" width="50"> &nbsp;I love coffee. ☕
 
