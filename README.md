@@ -14,6 +14,9 @@
   <h2>
     
 <p align="right">
+
+<br>
+<br>
     
 Hi, i'm Thiago Ruan, <br> programming student at DevQuest.
 I want be a developer on the rise and <br> a competitive programming enthusiast.
